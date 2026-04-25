@@ -1,22 +1,28 @@
+# Data Analytics & Business Intelligence – Task 1
 
-# Data Analytics & Business Intelligence - Task 1
+## Overview
 
-This project includes:
+This project is based on analyzing a sales dataset to understand business performance. It includes data cleaning, basic analysis using pivot tables, SQL queries, and a simple dashboard.
 
-- Data Cleaning using LibreOffice Calc
-- Exploratory Data Analysis (EDA) using Pivot Tables
-- SQL Queries for data extraction
-- Dashboard visualization
-- Business Insights Report
+## Tools Used
+
+* LibreOffice Calc
+* SQL
 
 ## Files Included
-- Cleaned Dataset
-- SQL Queries
-- Dashboard Screenshot
-- Final Report
 
-## Key Insights
-- West region has highest sales
-- Technology category is most profitable
-- January had higher sales than February
-- Top customers contribute major revenue
+* Cleaned dataset
+* SQL queries
+* Dashboard screenshot
+* Final report
+
+## What I Found
+
+* The West region had the highest sales
+* Technology products were the most profitable
+* Sales were higher in January compared to February
+* A few customers contributed a large part of the total revenue
+
+## Final Note
+
+This project helped me understand how raw data can be cleaned and turned into meaningful insights that support business decisions.
